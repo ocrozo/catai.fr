@@ -772,3 +772,17 @@ td.gutter {
   font-style: italic;
   font-size: 16px;
 }
+
+.logos{
+  display:inline-block;
+  height: 55px;
+  border-radius: 5px;
+  margin: 5px;
+}
+
+.lyonpicture{
+  display:inline-block;
+  width: 100%;
+  border-radius: 5px;
+  margin: 5px;
+}
