@@ -22,18 +22,19 @@ description: Collaboration France-Colombie en Technologies de l'Information et d
 # --- Navigation bar options --- #
 
 # List of links in the navigation bar
+
 navbar-links:
   Les partenaires: "about"
-  CATAÏ 2018:
-    - Accueil: "catai2018"
-    - Thématiques: "catai2018#themes"
-    - Comités: "catai2018#comites"
-    - Lieu: "catai2018#lieu"
-    - Dates importantes: "catai2018#dates"
-    - Soumissions: "catai2018#soumissions"
-    - Programme: "catai2018#programme"
-    - Inscription: "catai2018#inscription"
-    - Contact: "catai2018#contact"
+  Workshop: 
+    - CATAI 2019: "catai2019"
+    - Thématiques: "catai2019#themes"
+    - Comités: "catai2019#comites"
+    - Participants : "catai2019#participants"
+    - Dates importantes: "catai2019#dates"
+    - Soumissions: "catai2019#soumissions"
+    - Programme: "catai2019#programme"
+    - Contact: "catai2019#contact"
+    - CATAÏ 2018: "catai2018"
   Le réseau: 
     - Colombie: "colombie_network"
     - France: "france_network"

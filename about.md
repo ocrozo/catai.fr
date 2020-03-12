@@ -29,15 +29,14 @@ title: Les Partenaires
 <img src="/img/logo-artsetmetiers.jpg"
     alt="Arts et Metiers"
     class="logos" />
-<!-- img src="/img/logo-cpe.svg"
-    alt="CPE Lyon"
-    class="logos" /-->
 
 
 <img src="/img/logo-inria.jpg"
     alt="INRIA"
     class="logos" />
-
+<img src="/img/logo-cpe.jpg"
+    alt="CPE Lyon"
+    class="logos" />
 
 <img src="/img/logo-uniandes.png"
     alt="Universidad de los Andes"
@@ -53,40 +52,43 @@ title: Les Partenaires
 
 Depuis le début de la collaboration, il y a eu des acteurs et des institutions qui l'ont parrainés et qui en ont fait partie :
 
-  + Universidad Industrial de Santander - UIS (Bucaramanga, Colombie)
+### Colombie
+  + Universidad Industrial de Santander - UIS (Bucaramanga)
     - Escuela de Ingenieria de Sistemas e Informática – EISI
       * Grupo de Computación Avanzada y de Gran Escala – CAGE 
       * Grupo SIMON de Modelamiento y Simulación - SIMON
     - Supercomputación y Cálculo Cientifico UIS - SC3UIS
     - Grupo de Óptica y Tratamiento de Señales – GOTS
-    - Parque Tecnológico de Guatiguará (Piedecuesta, Colombie)
-  + Universidad de los Andes - UniAndes (Bogotá, Colombie)
-    - Departamento de Ingeniería de Sistemas y Computación -DISC
+    - Parque Tecnológico de Guatiguará (Piedecuesta)
+  + Universidad de los Andes - UniAndes (Bogotá)
+    - Departamento de Ingeniería de Sistemas y Computación - DISC
       * Grupo Comunicaciones y Tecnología de Información - COMIT
       * Grupo IMAGINE
     - Colaboratorio de Interacción, Visualización, Robótica y Sistemas Autónomos - COLIVRI
-  + Universidad Nacional de Colombia - UNAL (Bogotá, Colombie)
-  + Arts et Métiers - Paris Tech (Chalon sur Saône, France)
-  + Université de Côte d’Azur (Avant Université de Nice-Sophia Antipolis) (Nice, France)
-    - Laboratoire d’Informatique, Systèmes et Signaux de Sophia Antipolis – I3S (Sophia Antipolis, France)
-  + Institut Nationale Polytechnique de Grenoble - Grenoble-INP (Grenoble, France)
-  + École Nationale Supérieur d'Informatique et Mathématiques Appliquées de Grenoble - ENSIMAG (Grenoble, Francia)
-  + Université de Grenoble-Alpes - UGA (Grenoble, France)
-  + Laboratoire d’Informatique de Grenoble – LIG
-  + Institut Nationale de Recherche en Informatique et Automatique – INRIA (France)
-  + Université de Franche-Comté (Besançon, France)
-  + Université de Lyon (Lyon, France)
-    -  Institut National de Sciences Appliquées - INSA (Lyon, France)
-      * Laboratoire CITI
-    - CPE Lyon
+  + Universidad Nacional de Colombia - UNAL (Bogotá)
   + Ambassade de France en Colombie
     - Mission de Science et Collaboration Académique et Universitaire
-  + Alliance Francaise en Bucaramanga, Colombie (Bucaramanga, Colombie)
+  + Alliance Francaise en Bucaramanga, Colombie (Bucaramanga)
   + Colciencias (Colombie)
-  + CNRS (France)
-  + Ministerio de Tecnologías de la Información y la Comunicación – MinTIC (Colombie)
-  + Alcaldia de Bucaramanga (Bucaramanga, Colombia)
-  + ATOS (France)
-    - Bull Technologies
+  + Ministerio de Tecnologías de la Información y la Comunicación – MinTIC 
+  + Alcaldia de Bucaramanga (Bucaramanga)
   + Ecopetrol
-    - Instituto Colombiano del Petróleo (Colombie)
+    - Instituto Colombiano del Petróleo 
+
+### France
+  + Arts et Métiers - Paris Tech (Chalon sur Saône)
+  + Université de Côte d’Azur (Avant Université de Nice-Sophia Antipolis) (Nice)
+    - Laboratoire d’Informatique, Systèmes et Signaux de Sophia Antipolis – I3S (Sophia Antipolis)
+  + Institut Nationale Polytechnique de Grenoble - Grenoble-INP (Grenoble)
+  + École Nationale Supérieur d'Informatique et Mathématiques Appliquées de Grenoble - ENSIMAG (Grenoble)
+  + Université de Grenoble-Alpes - UGA (Grenoble)
+  + Laboratoire d’Informatique de Grenoble – LIG
+  + Institut Nationale de Recherche en Informatique et Automatique – INRIA 
+  + Université de Franche-Comté (Besançon)
+  + Université de Lyon (Lyon)
+    - Institut National de Sciences Appliquées - INSA (Lyon)
+      * Laboratoire CITI
+    - CPE Lyon
+  + CNRS 
+  + ATOS
+    - Bull Technologies

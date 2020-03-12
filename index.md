@@ -11,10 +11,11 @@ La collaboration cherche à formaliser les actions de recherche, développement 
 Chaque année, depuis 2013, les acteurs de la collaboration se réunissent pour échanger et avancer sur la création de nouveaux projets enrichissants pour les deux pays : 
   + En 2013, la première réunion à Piedecuesta, Santander (Colombie)
   + En 2014 à Bucaramanga, dans l’Universidad Industrial de Santander (Colombie)
-  + En 2015 à Sophia Antipolis, sur le siège du Laboratoire I3S-Université de Nice-Sophia Antipolis (aujourd’hui Université de Côte d’Azur) (France)
-  + En 2016 à Bogotá dans l’Université des Andes (Colombie) avec la rendu de la première version du projet de LIA CATAÏ à l’Ambassade de France en Colombie et le CNRS. 
+  + En 2015 à Sophia Antipolis, au siège du Laboratoire I3S-Université de Nice-Sophia Antipolis (aujourd’hui Université de Côte d’Azur) (France)
+  + En 2016 à Bogotá à l’Université des Andes (Colombie) avec la rendu de la première version du projet de LIA CATAÏ à l’Ambassade de France en Colombie et au CNRS. 
   + En 2017, pendant l'année France-Colombie 2017 la réunion à été faite à l’Université des Andes à Bogotá (Colombie).
-  + Cette année 2018, nous serons à l'INSA de Lyon (France) dans le laboratoire CITI. En même temps, nous aurons le [1er Workshop CATAÏ](catai2018).
+  + En 2018, nous sommes allés à l'INSA de Lyon (France) dans le laboratoire CITI pour le [1er Workshop CATAÏ](catai2018).
+  + Cette année 2019, nous serons à l'Universidad de los Andes et l'Universidad Nacional de la Colombie pour le [2nd Workshop CATAÏ](catai2019).
 
 
 

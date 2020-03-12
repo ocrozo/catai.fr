@@ -780,7 +780,13 @@ td.gutter {
   margin: 5px;
 }
 
-.lyonpicture{
+.logosupport{
+  display:inline-block;
+  height: 70px;
+  border-radius: 5px;
+  margin: 5px;
+}
+.citypicture{
   display:inline-block;
   width: 100%;
   border-radius: 5px;
