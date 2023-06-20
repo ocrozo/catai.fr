@@ -1,6 +1,6 @@
 ---
 layout: page
-title: 3ème Workshop CATAÏ
+title: --ANNULÉ--<br/>3ème Workshop CATAÏ
 subtitle: <b>SmartData for Citizen Wellness</b> <br/> La Fabrique de la Cité <br/> Paris, 18-19 Juin 2020
 # bigimg: /img/lyon.jpg
 ---
