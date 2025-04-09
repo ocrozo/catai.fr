@@ -126,7 +126,7 @@ Les contributions sont à soumettre via [easychair](https://easychair.org/confer
 <tbody>
 <tr><td><b>05/05/2025</b></td></tr>
 <tr>
-<td style="width:18%">10h00 - 10h15</td>
+<td style="width:25%">10h00 - 10h15</td>
 <td>Accueil</td>
 </tr>
 <tr>
@@ -171,7 +171,7 @@ Les contributions sont à soumettre via [easychair](https://easychair.org/confer
 <tbody>
 <tr><td><b>06/05/2025</b></td></tr>
 <tr>
-<td style="width:18%">9h30 - 10h00</td>
+<td style="width:25%">9h30 - 10h00</td>
 <td>Accueil</td>
 </tr>
 <tr>
