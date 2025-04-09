@@ -61,8 +61,9 @@ Les sessions scientifiques seront présentées au 34 Quai Saint-Cosme, 71100 Cha
 
 <iframe src="https://www.google.com/maps/embed?pb=!1m28!1m12!1m3!1d5464.596258281419!2d4.840281046633645!3d46.77872953181712!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!4m13!3e2!4m5!1s0x47f2fc9351188611%3A0x31a3c6ea5c2102c3!2sChalon-sur-Sa%C3%B4ne%2C%20Cour%20de%20la%20gare%2C%20Chalon-sur-Sa%C3%B4ne!3m2!1d46.7816803!2d4.8432938!4m5!1s0x47f2fce9875fc373%3A0x5d9e6dc7f7174936!2s34%20Quai%20Saint-Cosme%2C%2071100%20Chalon-sur-Sa%C3%B4ne!3m2!1d46.776196399999996!2d4.8461248999999995!5e0!3m2!1sen!2sfr!4v1744181015585!5m2!1sen!2sfr" width="100%" height="450" style="border:0;" allowfullscreen="" loading="lazy" referrerpolicy="no-referrer-when-downgrade"></iframe>
 
-Pour les trains, depuis Lyon, il existe un TER qui arrive directement en gare de Chalon (1h15 de trajet entre Lyon et Chalon).
-Depuis Paris, il existe un train via Dijon (avec arrivée en gare de Chalon) qui prend environ 2h50 ou un TGV qui arrive en gare du Creusot TGV (1h15 de train depuis Paris) et il faut ensuite prendre une navette de bus (30 min environ) qui arrive en gare de Chalon (la navette coute 2€ et est liée aux horaires de train).
+Pour les trains : 
++ Depuis Lyon : il existe un TER qui arrive directement en gare de Chalon (1h15 de trajet entre Lyon et Chalon).
++ Depuis Paris : il existe un train via Dijon (avec arrivée en gare de Chalon) qui prend environ 2h50 ou un TGV qui arrive en gare du Creusot TGV (1h15 de train depuis Paris) et il faut ensuite prendre une navette de bus (30 min environ) qui arrive en gare de Chalon (la navette coute 2€ et est liée aux horaires de train).
 
 ### Hébergement
 Pour votre hébergement, la plupart des hôtels sont très proches du site de la conférence, vous trouverez ci-dessous une liste de recommendations  :
