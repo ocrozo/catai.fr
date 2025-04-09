@@ -146,7 +146,7 @@ Articles has to be submitted to CARLA conference by tagging the contribution for
     + Preliminary Study of Fenicia District Renewable Energy Production for the Design of a Green Micro Datacenter<br/>
     *Frédéric Le Mouël, Fernando Jiménez, Oscar Carrillo, Carlos Jaime Barrios Hernández*
     + Performance and Cost of Machine Learning Models for Seizure Detection in an Adaptive e-Health IoT platform over Edge and Fog nodes<br/>
-    *Gabriel Puerta, Oscar Carrillo, Frédéric Le Mouël*     
+    _Gabriel Puerta, Oscar Carrillo, Frédéric Le Mouël_    
 </td>
 </tr>
 <tr>
@@ -168,6 +168,7 @@ Articles has to be submitted to CARLA conference by tagging the contribution for
 
 {: #contact}
 ## Contacts
-Frédéric Le Mouël | frederic.le-mouel@insa-lyon.fr
-José Tiberio Hernández | jhernand@uniandes.edu.co
-Oscar Carrillo | oscar.carrillo@cpe.fr
+| :---         |     ---: |
+| Frédéric Le Mouël | frederic.le-mouel@insa-lyon.fr |
+| José Tiberio Hernández | jhernand@uniandes.edu.co |
+| Oscar Carrillo | oscar.carrillo@cpe.fr |
