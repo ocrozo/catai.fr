@@ -68,7 +68,7 @@ Pour les trains :
 ### Hébergement
 Pour votre hébergement, la plupart des hôtels sont très proches du site de la conférence, vous trouverez ci-dessous une liste de recommendations  :
 
-[Hôtel Saint Jean**](https://www.hotelsaintjean.fr/fr)
+[Hôtel Saint Jean**](https://www.hotelsaintjean.fr/fr)  
 24 Quai Gambetta
 71100 Chalon-sur-Saône
 
