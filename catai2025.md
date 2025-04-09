@@ -1,7 +1,7 @@
 ---
 layout: page
 title: 5ème Workshop CATAÏ
-subtitle: <b>SmartData for Citizen Wellness</b> <br/> École Nationale Supérieure d'Arts et Métiers <br/> Chalon-sur-Saône, 5-6 Mai 2025
+subtitle: École Nationale Supérieure d'Arts et Métiers <br/> Chalon-sur-Saône, 5-6 Mai 2025
 
 ---
 
