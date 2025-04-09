@@ -18,7 +18,7 @@ Chaque année, depuis 2013, les acteurs de la collaboration se réunissent pour 
   + En 2019, l'Universidad de los Andes et l'Universidad Nacional de la Colombie nous ont accueilli pour le [2nd Workshop CATAÏ](catai2019).
   + En 2020, nous avons été invités à [La Fabrique de la Cité](https://www.lafabriquedelacite.com) pour le [3ème Workshop CATAÏ](catai2020) mais malheureusement à cause de la pandémie l’évènement a été annulé.
   + En 2023, notre événement a été accueilli comme atélier au sein de la conférence [CARLA 2023](https://carlaconference.org/previous_editions/2023/www.carla2023.org/index.html) pour organiser notre [Workshop CATAÏ 2023](https://carlaconference.org/previous_editions/2023/www.carla2023.org/schedule/workshop/165.html) à Carthagène en Colombie.
-
+  + Cette année 2025, nous serons accueillis par l'École Nationale Supérieure d'Arts et Métiers - ENSAM à Chalon-sur-Saône pour le [5ème Workshop CATAÏ](catai2025) 
 
 
 
