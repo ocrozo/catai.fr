@@ -2,8 +2,7 @@
 layout: page
 title: 4th CATAÏ Workshop
 subtitle: <b>Circular Architectures for Advanced Computing</b> <br/> 
-<a href="https://carlaconference.org">@CARLA</a>, Cartagena de Indias, Colombia <br/> September, 19 2023
-# bigimg: /img/lyon.jpg
+<a href='https://carlaconference.org'>@CARLA</a>, Cartagena de Indias, Colombia <br/> September 19, 2023
 ---
 
 <div style="text-align: center;">
