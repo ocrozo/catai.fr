@@ -16,13 +16,13 @@ Face aux enjeux contemporains — qu’il s’agisse des crises climatiques, des
 
 Dans cette édition CATAÏ 20225, nous proposons d'explorer et structurer des axes de recherche innovants et interdisciplinaires pour faire face aux défis sociétaux, environnementaux, politiques et technologiques contemporains
 
-    + <b>Identifier les lacunes des savoirs actuels</b> : Repérer les domaines où les connaissances scientifiques restent insuffisantes pour appréhender et résoudre les enjeux complexes du monde contemporain.
++ <b>Identifier les lacunes des savoirs actuels</b> : Repérer les domaines où les connaissances scientifiques restent insuffisantes pour appréhender et résoudre les enjeux complexes du monde contemporain.
 
-    + <b>Stimuler l’interdisciplinarité</b> : Favoriser la rencontre entre disciplines — sciences sociales, sciences naturelles, ingénierie, etc. — afin de croiser les regards, enrichir l’analyse et concevoir des solutions novatrices.
++ <b>Stimuler l’interdisciplinarité</b> : Favoriser la rencontre entre disciplines — sciences sociales, sciences naturelles, ingénierie, etc. — afin de croiser les regards, enrichir l’analyse et concevoir des solutions novatrices.
 
-    + <b>Renforcer la coopération internationale</b> : Promouvoir des approches globales face à des problématiques qui transcendent les frontières, telles que le changement climatique, la cybersécurité ou la réduction des dépendances technologiques.
++ <b>Renforcer la coopération internationale</b> : Promouvoir des approches globales face à des problématiques qui transcendent les frontières, telles que le changement climatique, la cybersécurité ou la réduction des dépendances technologiques.
 
-    + <b>Concevoir des solutions concrètes et actionnables</b> : Élaborer des pistes de recherche susceptibles d’alimenter des politiques publiques ou de déboucher sur des innovations utiles et durables.
++ <b>Concevoir des solutions concrètes et actionnables</b> : Élaborer des pistes de recherche susceptibles d’alimenter des politiques publiques ou de déboucher sur des innovations utiles et durables.
 
 
 
