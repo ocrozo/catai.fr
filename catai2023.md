@@ -125,11 +125,12 @@ Articles has to be submitted to CARLA conference by tagging the contribution for
 <br/><b>Session 1</b></td>
 <td>
     Chair: Helga Duarte<br/>
-    + Road Map Proposal to Latin American Climate Simulations based on Artificial Intelligence <br/>
-    *Victor Martinez, Aurea Soriano-Vargas, Anderson Rocha*
-    + Deployment Performance In Post-Moore-Based HPC Sustainable Platforms <br/>
-    *Pablo Josué Rojas Yepes, Carlos Jaime Barrios Hernández, Oscar Carrillo, Frédéric Le Mouël*
-     
+    <ul>
+    <li>Road Map Proposal to Latin American Climate Simulations based on Artificial Intelligence <br/>
+    <i>Victor Martinez, Aurea Soriano-Vargas, Anderson Rocha</i></li>
+    <li>Deployment Performance In Post-Moore-Based HPC Sustainable Platforms <br/>
+    <i>Pablo Josué Rojas Yepes, Carlos Jaime Barrios Hernández, Oscar Carrillo, Frédéric Le Mouël</i></li>
+    </ul> 
 </td>
 </tr>
 <tr>
@@ -143,10 +144,12 @@ Articles has to be submitted to CARLA conference by tagging the contribution for
 <br/><b>Session 2</b></td>
 <td>
     Chair: Helga Duarte<br/>
-    + Preliminary Study of Fenicia District Renewable Energy Production for the Design of a Green Micro Datacenter<br/>
-    *Frédéric Le Mouël, Fernando Jiménez, Oscar Carrillo, Carlos Jaime Barrios Hernández*
-    + Performance and Cost of Machine Learning Models for Seizure Detection in an Adaptive e-Health IoT platform over Edge and Fog nodes<br/>
-    _Gabriel Puerta, Oscar Carrillo, Frédéric Le Mouël_    
+    <ul>
+    <li>Preliminary Study of Fenicia District Renewable Energy Production for the Design of a Green Micro Datacenter<br/>
+    <i>Frédéric Le Mouël, Fernando Jiménez, Oscar Carrillo, Carlos Jaime Barrios Hernández</i></li>
+    <li>Performance and Cost of Machine Learning Models for Seizure Detection in an Adaptive e-Health IoT platform over Edge and Fog nodes<br/>
+    <i>Gabriel Puerta, Oscar Carrillo, Frédéric Le Mouël</i></li>
+    </ul>
 </td>
 </tr>
 <tr>
