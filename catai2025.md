@@ -152,7 +152,7 @@ Les contributions sont à soumettre via [easychair](https://easychair.org/confer
 </tr>
 
 <tr>
-<td>15h00 - 17h<br/> <b>Session 2</b></td>
+<td>15h00 - 17h00<br/> <b>Session 2</b></td>
 <td>Présentations scientifiques</td>
 </tr>
 
@@ -180,17 +180,17 @@ Les contributions sont à soumettre via [easychair](https://easychair.org/confer
 </tr>
 
 <tr>
-<td>12h30 - 14h</td>
+<td>12h30 - 14h00</td>
 <td>Pause déjeuner</td>
 </tr>
 
 <tr>
-<td>14h - 16h</td>
+<td>14h00 - 16h00</td>
 <td>Restitution des échanges en séance plénière</td>
 </tr>
 
 <tr>
-<td>16h - 16h30</td>
+<td>16h00 - 16h30</td>
 <td>Conclusions et clôture</td>
 </tr>
 
