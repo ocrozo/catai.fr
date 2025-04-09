@@ -73,23 +73,27 @@ Pour votre hébergement, la plupart des hôtels sont très proches du site de la
 71100 Chalon-sur-Saône
 
 
-[Appart City***](https://www.appartcity.com/fr/destinations/bourgogne/chalon-sur-saone/chalon-sur-saone.html?utm_source=google&utm_medium=mybusiness&utm_campaign=chalon-sur-saone)
-23 Av. Victor Hugo
+[Appart City***](https://www.appartcity.com/fr/destinations/bourgogne/chalon-sur-saone/chalon-sur-saone.html?utm_source=google&utm_medium=mybusiness&utm_campaign=chalon-sur-saone)  
+23 Av. Victor Hugo  
 71100 Chalon-sur-Saône
 
-[Villa Boucicaut***](https://www.la-villa-boucicaut.fr/)
-33 BIS Av. Boucicaut
+
+[Villa Boucicaut***](https://www.la-villa-boucicaut.fr/)  
+33 BIS Av. Boucicaut  
 71100 Chalon-sur-Saône
 
-[Kyriad***](https://www.kyriad.com/fr/hotels/kyriad-chalon-sur-saone-centre/?utm_source=google&utm_medium=maps&utm_content=FRA22359&utm_campaign=Kyriad)
-35 Pl. de Beaune, 71100 Chalon-sur-Saône
 
-[Hotel des Jacobines*](http://www.hotel-lesjacobines.com/)
-10 Rue des Jacobines
+[Kyriad***](https://www.kyriad.com/fr/hotels/kyriad-chalon-sur-saone-centre/?utm_source=google&utm_medium=maps&utm_content=FRA22359&utm_campaign=Kyriad)  
+35 Pl. de Beaune, 71100 Chalon-sur-Saône  
+
+
+[Hotel des Jacobines*](http://www.hotel-lesjacobines.com/)  
+10 Rue des Jacobines  
 71100 Chalon-sur-Saône
 
-[Hotel Saint Régis](https://hotelsaintregis.com/fr/)
-22 Bd de la République
+
+[Hotel Saint Régis](https://hotelsaintregis.com/fr/)  
+22 Bd de la République  
 71100 Chalon-sur-Saône
 
 
