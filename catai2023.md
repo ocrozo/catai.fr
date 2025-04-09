@@ -1,7 +1,8 @@
 ---
 layout: page
 title: 4th CATAÏ Workshop
-subtitle: <b>Circular Architectures for Advanced Computing</b> <br/> [@CARLA](https://carlaconference.org), Cartagena de Indias, Colombia <br/> September, 19 2023
+subtitle: <b>Circular Architectures for Advanced Computing</b> <br/> 
+<a href="https://carlaconference.org">@CARLA</a>, Cartagena de Indias, Colombia <br/> September, 19 2023
 # bigimg: /img/lyon.jpg
 ---
 
@@ -171,6 +172,7 @@ Articles has to be submitted to CARLA conference by tagging the contribution for
 
 {: #contact}
 ## Contacts
+
 | :---         |     ---: |
 | Frédéric Le Mouël | frederic.le-mouel@insa-lyon.fr |
 | José Tiberio Hernández | jhernand@uniandes.edu.co |
