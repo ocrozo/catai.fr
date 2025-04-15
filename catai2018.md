@@ -77,7 +77,7 @@ Oscar Carrillo | CITI Lab - CPE Lyon | France
     alt="CITI Laboratory"
     class="logosupport" /></a>
 <a href="http://www.cpe.fr">
-<img src="/img/logo-cpe.png"
+<img src="/img/logo-cpe.jpg"
     alt="CPE Lyon"
     class="logosupport" /></a>
 </div>
