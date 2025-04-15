@@ -62,6 +62,11 @@ Des chercheurs de l'Université de la Côte d'Azur, de l'INSA-Lyon, d'Arts et M�
     alt="INSA Lyon"
     class="logosupport"/></a>
 
+<a href="http://www.cpe.fr">
+<img src="/img/logo-cpe.png"
+    alt="CPE Lyon"
+    class="logosupport" /></a>
+
 </div>
 
 {: #lieu}
