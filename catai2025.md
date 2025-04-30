@@ -84,6 +84,11 @@ Pour les trains :
 ### Hébergement
 Pour votre hébergement, la plupart des hôtels sont très proches du site de la conférence, vous trouverez ci-dessous une liste de recommendations  :
 
+[Hôtel Saint Georges***](https://www.le-saintgeorges.fr/)
+32, avenue Jean Jaurès
+71 100 Chalon-sur-Saône
+
+
 [Hôtel Saint Jean**](https://www.hotelsaintjean.fr/fr)  
 24 Quai Gambetta
 71100 Chalon-sur-Saône
@@ -150,30 +155,45 @@ Les contributions sont à soumettre via [easychair](https://easychair.org/confer
 <td>Ouverture (Présentation Collaboration CATAÏ)</td>
 </tr>
 <tr>
-<td>10h30 - 11h30</td>
-<td>Keynote<br/></td>
-</tr>
-<tr>
-<td>11h30 - 12h30<br/> <b>Session 1</b></td>
-<td>Présentations scientifiques</td>
-</tr>
-<tr>
-<td>12h30 - 14h00 </td>
-<td>Pause déjeuner
-</td>
-</tr>
-<tr>
-<td>14h00 - 15h00</td>
+<td>10h30 - 11h00</td>
 <td>Visite du site (institut Arts et Metiers – Chalon)</td>
 </tr>
-
 <tr>
-<td>15h00 - 17h00<br/> <b>Session 2</b></td>
-<td>Présentations scientifiques</td>
+<td>11h00 - 12h00</td>
+<td>Keynote<br/>Carlos Jaime BARRIOS HERNÁNDEZ - HDR</td>
 </tr>
 
 <tr>
-<td>19h00 - 22h00</td>
+<td>12h00 - 13h00 </td>
+<td>Pause déjeuner</td>
+</tr>
+
+<tr>
+<td>13h00 - 14h00<br/> <b>Session 1</b></td>
+<td>Présentations scientifiques<br/>Projets réalisés dans le passé dans le cadre de CATAÏ</td>
+</tr>
+
+<tr>
+<td>14h00 - 16h30<br/> <b>Session 2</b></td>
+<td>Présentations scientifiques <br/>Projets en cours (15 min présentation + 10 min échanges)<br/>
+<ul>
+    <li>Posture Analysis During Desk Work of Researchers: A Sensor-Based System for Ergonomic Posture Monitoring in Office Environments<i>, Alejandro Betancur (visio)</i></li>
+    <li>Operational optimisation of the performance of a connected building. Contribution of digital twin and intelligent decision-making techniques<i>, Sébastien Gérin</i></li>
+    <li>AI-Driven Digital Twins in Translational Medicine: Advances and Challenges<i>, John García Henao (visio)</i></li>
+    <li>Developing trustworthy intelligent avatars in virtual immersion<i>, Jean-Rémy Chardonnet et Christophe Guillet</i></li>
+    <li>Big data analytics for understanding mobility patterns<i>, Christophe Claramunt</i></li>
+    <li><i>Pablo Rojas</i></li>
+    </ul> 
+</td>
+</tr>
+
+<tr>
+<td>16h45 - 17h30</td>
+<td>Dégustation de vin</td>
+</tr>
+
+<tr>
+<td>19h30 - 22h00</td>
 <td>Dîner de gala</td>
 </tr>
 
@@ -201,7 +221,11 @@ Les contributions sont à soumettre via [easychair](https://easychair.org/confer
 </tr>
 
 <tr>
-<td>14h00 - 16h00</td>
+<td>14h00 - 15h00</td>
+<td>Discussion autour des Appels à Projets</td>
+</tr>
+<tr>
+<td>15h00 - 16h00</td>
 <td>Restitution des échanges en séance plénière</td>
 </tr>
 
