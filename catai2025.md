@@ -84,7 +84,7 @@ Pour les trains :
 ### Hébergement
 Pour votre hébergement, la plupart des hôtels sont très proches du site de la conférence, vous trouverez ci-dessous une liste de recommendations  :
 
-[Hôtel Saint Georges***](https://www.le-saintgeorges.fr/)
+[Hôtel Saint Georges***](https://www.le-saintgeorges.fr/)  
 32, avenue Jean Jaurès
 71 100 Chalon-sur-Saône
 
