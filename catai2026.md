@@ -31,6 +31,7 @@ For this CATAÏ 2026 edition, we propose to structure the collaboration around t
 
 {: #comites}
 ## Organizing Committee
+
 Edward Paul Guillén | Universidad Militar Nueva Granada | Colombia
 Wilson Sarmiento | Universidad Militar Nueva Granada | Colombia
 José Rugeles | Universidad Militar Nueva Granada | Colombia
@@ -38,7 +39,7 @@ Oscar Carrillo | CITI Lab - Univ Lyon, CPE Lyon | France
 
 {: #participants}
 ## Participants
-We expect around 20 researchers (French and Colombian) interested in the collaboration research lines, along with representatives from sector agencies in both countries.
+We expect around 30 researchers (French and Colombian) interested in the collaboration research lines, along with representatives from sector agencies in both countries.
 
 ### Researchers
 
@@ -60,7 +61,12 @@ Researchers from any institution are welcome to participate, especially those in
 The workshop will be hosted by Universidad Militar Nueva Granada (UMNG) and will take place across two venues:
 
 + <b>May 7, 2026</b>: UMNG Calle 100 Building, Bogotá.
+
+<iframe src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d3976.4960745669096!2d-74.04506608922657!3d4.683501995271816!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x8e3f9a977b6502c9%3A0x502b2e1ab14b506f!2sUniversidad%20Militar%20Nueva%20Granada!5e0!3m2!1sen!2sus!4v1771429340121!5m2!1sen!2sus" width="600" height="450" style="border:0;" allowfullscreen="" loading="lazy" referrerpolicy="no-referrer-when-downgrade"></iframe>
+
 + <b>May 8, 2026</b>: UMNG Cajicá Campus.
+
+<iframe src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d3974.9825630537202!2d-74.01771655499601!3d4.942544582266942!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x8e40774d022b68e5%3A0xd949e2116a32d8b!2sMilitar%20University%20of%20New%20Granada!5e0!3m2!1sen!2sus!4v1771429395255!5m2!1sen!2sus" width="600" height="450" style="border:0;" allowfullscreen="" loading="lazy" referrerpolicy="no-referrer-when-downgrade"></iframe>
 
 ### Accommodation
 Participants are encouraged to stay in Bogotá for both nights (May 6-7). For participants attending Day 2, UMNG will provide guidance and practical orientation on how to travel from the Calle 100 Campus to the Cajicá Campus. Dedicated transportation will be available for invited VIP participants.
@@ -104,7 +110,7 @@ The Microsoft CMT service was used for managing the peer-reviewing process for t
 ## Program
 <table>
 <tbody>
-<tr><td><b>07/05/2026 - Venue: UMNG Calle 100 Building, Bogotá</b></td></tr>
+<tr><td><b>07/05/2026 </b> <td><b>Venue: UMNG Calle 100 Building, Bogotá</b></td></tr>
 <tr>
 <td style="width:25%">08:00 - 10:15</td>
 <td>Registration and Welcome Coffee</td>
@@ -155,7 +161,7 @@ The Microsoft CMT service was used for managing the peer-reviewing process for t
 
 <table>
 <tbody>
-<tr><td><b>08/05/2026 - Venue: UMNG Cajicá Campus</b></td></tr>
+<tr><td><b>08/05/2026 </b><td><b> Venue: UMNG Cajicá Campus</b></td></tr>
 <tr>
 <td style="width:25%">06:00 - 06:30</td>
 <td>Recommended departure window to UMNG Cajicá Campus (from Calle 100 area)</td>
