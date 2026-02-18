@@ -110,7 +110,7 @@ The Microsoft CMT service was used for managing the peer-reviewing process for t
 ## Program
 <table>
 <tbody>
-<tr><td><b>07/05/2026 </b> <td><b>Venue: UMNG Calle 100 Building, Bogotá</b></td></tr>
+<tr><td><b>07/05/2026</b></td><td><b>Venue: UMNG Calle 100 Building, Bogotá</b></td></tr>
 <tr>
 <td style="width:25%">08:00 - 10:15</td>
 <td>Registration and Welcome Coffee</td>
@@ -144,7 +144,6 @@ The Microsoft CMT service was used for managing the peer-reviewing process for t
 <tr>
 <td>16:30 - 18:00<br/> <b>Session 2</b></td>
 <td>Scientific Presentations <br/>Ongoing projects (15 min presentation + 10 min discussion)<br/>
-
 </td>
 </tr>
 
@@ -161,7 +160,7 @@ The Microsoft CMT service was used for managing the peer-reviewing process for t
 
 <table>
 <tbody>
-<tr><td><b>08/05/2026 </b><td><b> Venue: UMNG Cajicá Campus</b></td></tr>
+<tr><td><b>08/05/2026</b></td><td><b>Venue: UMNG Cajicá Campus</b></td></tr>
 <tr>
 <td style="width:25%">06:00 - 06:30</td>
 <td>Recommended departure window to UMNG Cajicá Campus (from Calle 100 area)</td>
