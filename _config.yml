@@ -26,6 +26,7 @@ description: Collaboration France-Colombie en Technologies de l'Information et d
 navbar-links:
   Les partenaires: "about"
   Workshop: 
+    - --CATAI 2026--: "catai2026"
     - --CATAI 2025--: "catai2025"
     - --CATAI 2023--: "catai2023"
     #- --CATAI 2022--: "catai2022"
