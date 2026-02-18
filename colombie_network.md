@@ -11,5 +11,9 @@ Harold Castro	|	Universidad de los Andes | Bogotá
 Arturo Plata | Universidad Industrial de Santander | Bucaramanga
 Carlos J. Barrrios	|	Universidad Industrial de Santander | Bucaramanga
 Gabriel	Pedraza	|	Universidad Industrial de Santander | Bucaramanga
-Enrique Sanchez-Albarracin | Ambassade de France en Colombie | Bucaramanga
+Edward Paul Guillén | Universidad Militar Nueva Granada | Bogotá
+Wilson Sarmiento | Universidad Militar Nueva Granada | Bogotá
+José Rugeles | Universidad Militar Nueva Granada | Bogotá
+
+
 
